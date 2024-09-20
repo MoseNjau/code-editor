@@ -1,4 +1,4 @@
-import { createContext, useState, useEffect } from "react";
+import React, { createContext, useState, useEffect } from "react";
 import { v4 as uuid } from 'uuid';
 
 export const PlaygroundContext = createContext();

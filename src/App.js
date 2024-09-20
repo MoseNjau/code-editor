@@ -5,6 +5,7 @@ import Error404 from './screens/Error404';
 import { GlobalStyle } from './style/global';
 import ModalProvider from './context/ModalContext';
 import PlaygroundProvider from './context/PlaygroundContext';
+import React from 'react';
 
 function App() {
   return (
